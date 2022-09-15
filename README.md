@@ -1,4 +1,4 @@
-## 해피택스 사용 기술
+##  사용 기술
  * Python 3.4.x
  * Django 1.7.x
  * PostgreSQL
