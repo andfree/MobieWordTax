@@ -1,0 +1,29 @@
+{
+  "name": "happytax",
+  "dependencies": {
+    "bootstrap4": "^4.3.1",
+    "jquery": "^2.2.4",
+    "font-awesome": "~4.7.0",
+    "dropzone": "",
+    "ejs": "",
+    "DataTables": "",
+    "eonasdan-bootstrap-datetimepicker": "~4.7.14",
+    "slick.js": "",
+    "jquery.inputmask": "~3.1.63",
+    "animate.css": "~3.5.1",
+    "velocity": "~1.2.3",
+    "signature_pad": "~1.5.2",
+    "photoswipe": "",
+    "x-editable": "",
+    "slickgrid": "^2.1.0",
+    "handsontable": "^0.30.0",
+    "es6-shim": "^0.35.2",
+    "vue": "^2.1.10",
+    "moment": "^2.17.1",
+    "popper.js": "^1.15.0",
+    "jquery.countdown": "^2.2.0"
+  },
+  "resolutions": {
+    "font-awesome": "~4.7.0"
+  }
+}

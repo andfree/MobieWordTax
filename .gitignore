@@ -1,0 +1,12 @@
+*.pyc
+.idea
+accounting/static/packages
+accounting/static/node_modules
+marketing/mails
+happytax/production.py
+*.css.map
+.vscode
+scripts/notice_msg.txt
+venv
+serviceAccountKey.json
+
